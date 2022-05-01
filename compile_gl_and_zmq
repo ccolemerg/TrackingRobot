@@ -1,5 +1,0 @@
-g++ main.cpp -lGL -lglut -lGLU -lzmq
-
-
-sudo netstat -lnp
-
